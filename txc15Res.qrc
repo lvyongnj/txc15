@@ -1,0 +1,56 @@
+<RCC>
+    <qresource prefix="/txcmain">
+        <file>Resources/DLink_96.png</file>
+        <file>Resources/TX-RGB-10D_96.png</file>
+        <file>Resources/TX-RGB-10U_96.png</file>
+        <file>Resources/Logo.png</file>
+        <file>Resources/TX_T13A.png</file>
+        <file>Resources/help.png</file>
+        <file>Resources/txlogo.png</file>
+        <file>Resources/Brightness.png</file>
+        <file>Resources/position_size.png</file>
+        <file>Resources/config.png</file>
+        <file>Resources/HW_info.png</file>
+        <file>Resources/color.ico</file>
+        <file>Resources/default.ico</file>
+        <file>Resources/wizard.ico</file>
+        <file>Resources/find.png</file>
+        <file>Resources/grid.ico</file>
+        <file>Resources/project.ico</file>
+        <file>Resources/save.ico</file>
+        <file>Resources/Switch16.ico</file>
+        <file>Resources/1402906628_MB__sett-big.png</file>
+        <file>Resources/loadPrj.png</file>
+        <file>Resources/savePrj.png</file>
+        <file>Resources/Restore.png</file>
+        <file>Resources/adjust.ico</file>
+        <file>Resources/money.ico</file>
+        <file>Resources/special.ico</file>
+    </qresource>
+    <qresource prefix="/ledlight">
+        <file>Resources/ledB.png</file>
+        <file>Resources/ledB_l.png</file>
+        <file>Resources/ledG.png</file>
+        <file>Resources/ledG_l.png</file>
+        <file>Resources/ledR.png</file>
+        <file>Resources/ledR_l.png</file>
+        <file>Resources/bg.png</file>
+        <file>Resources/bgdown.png</file>
+    </qresource>
+    <qresource prefix="/language">
+        <file>Resources/ChinaFlag16.png</file>
+        <file>Resources/RussiaFlag16.png</file>
+        <file>Resources/TaiwanFlag16.png</file>
+        <file>Resources/UKFlag16.png</file>
+        <file>txlg_en.qm</file>
+        <file>txlg_ru.qm</file>
+        <file>txlg_zh_TW.qm</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Resources/jumpswOff.png</file>
+        <file>Resources/jumpswOn.png</file>
+        <file>Resources/jumpswDis.png</file>
+        <file>Resources/jumpswOff_hover.png</file>
+        <file>Resources/jumpswOn_hover.png</file>
+    </qresource>
+</RCC>

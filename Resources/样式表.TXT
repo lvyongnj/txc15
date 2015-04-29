@@ -1,0 +1,6 @@
+QToolButton {border: 0px;}
+QToolButton:hover {
+	border-image: url(:/txcmain/Resources/buttonItem.png);
+border-image-slice:4;
+border-transparten:40%;
+}
